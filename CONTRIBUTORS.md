@@ -3,4 +3,6 @@
 <ol>
 <li>William Rupert Waboke (@waboke)
 <li>Nanribet Yohanna Kutwal, (@Nan-yohanna), Mathematics_department, U23MTH1011</li>
+  <li>Nureni Omowumi,(@Zeemah08), Computer Science département, U23CS1004<li>
+  </li>
 </ol>
